@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292405031107",
+    "project_id": "onesignalnotificationhandler",
+    "storage_bucket": "onesignalnotificationhandler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292405031107:android:af499859a2bd4bde5f3276",
+        "android_client_info": {
+          "package_name": "com.eemmez.onesignalnotificationhandler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292405031107-289rjqg2udbhu3qb3acpj469tf28b4uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj2ae1Dak-8dugrdZfI6ZounnwV7AlaWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292405031107-289rjqg2udbhu3qb3acpj469tf28b4uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
